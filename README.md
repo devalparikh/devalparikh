@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Deval.
+
+I'm a senior Computer Science student at George Mason University. I like working with Full Stack, Infrastructure, and ML.
+
+Learn more about me @ [devalparikh.me](http://devalparikh.me/)
 
 <!--
 **devalparikh/devalparikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
