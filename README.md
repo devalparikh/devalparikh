@@ -4,7 +4,7 @@ I'm a senior Computer Science student at George Mason University. I like working
 
 Learn more about me @ [devalparikh.me](http://devalparikh.me/)
 
-[![Deval's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalparikh&layout=compact&hide=makefile,objective-c,python,&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Deval's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalparikh&layout=compact&hide=makefile,objective-c,python,&langs_count=10)](https://devalparikh.me/)
 
 <!--
 **devalparikh/devalparikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
