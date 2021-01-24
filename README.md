@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Deval.
 
-I'm a senior Computer Science student at George Mason University. I like working with Full Stack, Infrastructure, and ML.
+I'm a Software Engineer at Capital One. I work with Full Stack, Distributed Systems, and ML technologies.
 
 Learn more about me @ [devalparikh.me](http://devalparikh.me/)
 
