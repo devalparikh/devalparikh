@@ -4,8 +4,8 @@ I'm a Software Engineer at Capital One. I work with Full Stack, Distributed Syst
 
 Learn more about me @ [devalparikh.me](http://devalparikh.me/)
 
-[![Deval's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalparikh&layout=compact&hide=makefile,objective-c,python,&langs_count=10)](https://devalparikh.me/)
-
+<!-- [![Deval's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalparikh&layout=compact&hide=makefile,objective-c,python,&langs_count=10)](https://devalparikh.me/)
+ -->
 <!--
 **devalparikh/devalparikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
