@@ -2,10 +2,16 @@
 
 I'm a Software Engineer at Capital One. I work with Full Stack, Distributed Systems, and ML technologies.
 
+👨🏻‍💻 Working on [geogramapp.com](geogramapp.com) 
+
 ### Links:
-<a href="http://devalparikh.me/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a><br/>
+<!-- <a href="http://devalparikh.me/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a><br/>
 <a href="https://medium.com/@devalpp" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br/>
-<a href="https://www.linkedin.com/in/devalparikh1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
+<a href="https://www.linkedin.com/in/devalparikh1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/> -->
+
+- 👨🏻‍💻&nbsp; [devalparikh.me](http://devalparikh.me/)
+- ✍🏼&nbsp; [medium.com/@devalpp](https://medium.com/@devalpp)
+- 🌎&nbsp; [linkedin.com/in/devalparikh1/](https://www.linkedin.com/in/devalparikh1/)
 
 <!-- 
 Links
