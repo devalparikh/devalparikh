@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at Capital One. I work with Full Stack, Distributed Systems, and ML technologies.
 
-👨🏻‍💻 Working on [geogramapp.com](geogramapp.com) 
+👨🏻‍💻 Working on [geogramapp.com](https://geogramapp.com) 
 
 ### Links:
 <!-- <a href="http://devalparikh.me/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a><br/>
