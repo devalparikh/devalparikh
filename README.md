@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Deval.
 
-I'm a Software Engineer at Capital One. I work with Full Stack, Distributed Systems, and ML technologies.
+I'm a Senior Engineer at Microsoft. I work on distributed systems and ML at scale.
 
 👨🏻‍💻 Currently working on 
 - [zescribe.ai](https://zescribe.ai/)
