@@ -4,7 +4,7 @@ I'm a Senior Engineer at Microsoft. I work on distributed systems and ML at scal
 
 👨🏻‍💻 Currently working on
 - [rolodex.dev](https://www.rolodex.dev/) - AI agents that form the optimal team for a project
-- [traverse.chat](https://www.traverse.chat/) - Mind map based chatgpt
+- [traverse.chat](https://www.traverse.chat/) - Mind map based AI chat
 - [speedof.dev](https://www.speedof.dev/) - Cursor for system architecture and managed infra
 - [zescribe.ai](https://zescribe.ai/) - AI agents for real estate agetns
 
