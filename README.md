@@ -3,7 +3,8 @@
 I'm a Senior Engineer at Microsoft. I work on distributed systems and ML at scale.
 
 👨🏻‍💻 Currently working on
-- [rolodex.dev](https://www.rolodex.dev/) - AI system to build optimal teams
+- [pearup.app](https://www.pearup.app/) - Relationship OS and AI counselor 🔨
+- [rolodex.dev](https://www.rolodex.dev/) - AI system to build optimal teams 🔨
 - [traverse.chat](https://www.traverse.chat/) - Mind map based AI chat
 - [speedof.dev](https://www.speedof.dev/) - Cursor for system architecture and managed infra
 - [zescribe.ai](https://zescribe.ai/) - AI agents for real estate agetns
